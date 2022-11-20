@@ -35,3 +35,12 @@ Associated Source Code: [v1.1.0](https://github.com/codeSTACKr/nft-landing-page/
   - Colors
 
 ## Watch the [video walkthroughs](#video-walkthrough) above for more detailed instructions.
+
+
+# Clout Babes
+## URL: https://cloutbabes.io
+## Design Materials: https://www.figma.com/file/gPdM3OB1l7aNYzmquST2AM/CB-new-web?node-id=0%3A1
+## Reference:
+- https://punkangels.io/
+- https://www.benchodroff.com/2022/06/30/nft-stickers-using-nfc-and-poap/
+- https://github.com/codeSTACKr/nft-landing-page
